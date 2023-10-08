@@ -1,4 +1,4 @@
-# IO::String
+# IO::String [![Test in a Raku container](https://github.com/JJ/raku-io-string/actions/workflows/test.yaml/badge.svg)](https://github.com/JJ/raku-io-string/actions/workflows/test.yaml)
 
 *This is a fork of the original
 [IO::String](https://github.com/hoelzro/p6-io-string), which was archived, with
