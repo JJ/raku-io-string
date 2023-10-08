@@ -75,7 +75,7 @@ With C<:bind> set to false or without being passed, the string will not be bound
 =end head2
 
 #| An L<IO::Handle> implementation that writes to memory.
-class IO::String:ver<0.1.0>:auth<hoelzro> is IO::Handle {
+class IO::String is IO::Handle {
     has Str $.buffer = '';
     has Int $.pos = 0;
 
