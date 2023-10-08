@@ -1,1 +1,5 @@
 /lib/.precomp/
+
+# Comma
+.idea/
+*.iml
