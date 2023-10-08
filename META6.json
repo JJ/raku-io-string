@@ -1,6 +1,7 @@
 {
     "name": "IO::String",
     "license" : "MIT",
+    "auth": "zef:jjmerelo",
     "version": "0.2.0",
     "description": "Emulate file interface for strings",
     "provides": {
