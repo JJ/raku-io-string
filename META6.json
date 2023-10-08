@@ -1,5 +1,4 @@
 {
-    "perl": "6.*",
     "name": "IO::String",
     "license" : "MIT",
     "version": "0.1.1",
@@ -7,7 +6,7 @@
     "provides": {
         "IO::String": "lib/IO/String.pm"
     },
-    "author": "Rob Hoelz",
+    "authors": ["Rob Hoelz"],
     "depends": [],
-    "source-url": "https://github.com/hoelzro/p6-io-string.git"
+    "source-url": "git@github.com:JJ/raku-io-string.git"
 }
