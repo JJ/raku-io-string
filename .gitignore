@@ -3,3 +3,6 @@
 # Comma
 .idea/
 *.iml
+
+# fez
+sdist/
