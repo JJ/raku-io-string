@@ -26,10 +26,6 @@ includes uses like APIs that for some reason don't accept strings as well as
 files as targets, mocking I/O, or capturing output written to the
 terminal. That's why this module exists. Loosely based on Perl 5's IO::String.
 
-## TODO
-
-  * Handle encodings
-
 ## LICENSE
 
 
