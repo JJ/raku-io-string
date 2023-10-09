@@ -28,7 +28,6 @@ terminal. That's why this module exists. Loosely based on Perl 5's IO::String.
 
 ## TODO
 
-  * Input as well as output
   * Handle encodings
 
 ## LICENSE
