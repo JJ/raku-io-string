@@ -1,12 +1,15 @@
 {
-    "name": "IO::String",
-    "license" : "MIT",
-    "auth": "zef:jjmerelo",
-    "version": "0.2.0",
-    "description": "Emulate file interface for strings",
-    "provides": {
-        "IO::String": "lib/IO/String.rakumod"
-    },
-    "authors": ["Rob Hoelz"],
-    "source-url": "git@github.com:JJ/raku-io-string.git"
+  "name": "IO::String",
+  "description": "Emulate file interface for strings",
+  "version": "0.2.0",
+  "authors": [
+    "Rob Hoelz"
+  ],
+  "auth": "zef:jjmerelo",
+  "depends": [],
+  "provides": {
+    "IO::String": "lib/IO/String.rakumod"
+  },
+  "license": "MIT",
+  "source-url": "git@github.com:JJ/raku-io-string.git"
 }
